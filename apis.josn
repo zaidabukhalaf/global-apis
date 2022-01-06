@@ -1,0 +1,12 @@
+{
+  "links": [
+    {
+      "name": "test1",
+      "link": "https://google.com"
+    },
+    {
+      "name": "test2",
+      "link": "https://facebook.com"
+    }
+  ]
+}
